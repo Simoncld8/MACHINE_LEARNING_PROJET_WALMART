@@ -34,7 +34,7 @@ To utilize and explore this project, follow these steps:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/Simoncld8/EDA_PROJET_SP.git
+   git clone https://github.com/Simoncld8/MACHINE_LEARNING_PROJET_WALMART.git
 
 
 2. **Install Dependencies:**
