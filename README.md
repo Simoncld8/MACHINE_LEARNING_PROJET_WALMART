@@ -43,7 +43,7 @@ To utilize and explore this project, follow these steps:
 
 3. **Run the Analysis:**
 
-   You will find all the analysis in the Jupyter Notebook provided (`Projet_SD.ipynb`).
+   You will find all the analysis in the Jupyter Notebook provided (`Projet_Walmart.ipynb`).
 
 
 Contributors
